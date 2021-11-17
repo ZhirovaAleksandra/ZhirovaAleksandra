@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ZhirovaAleksandra
 I'm learning programming by myself, so will be glad if u have some advices for me.
-Now i'm intresting about C and C# for Unity
+Now i'm intresting about C and C# for Unity.
+
 Wish me luck ^_^
 
 <!---
